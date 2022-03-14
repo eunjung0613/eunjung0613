@@ -35,7 +35,7 @@
 
 #
 
-[![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmswjd7281)](https://solved.ac/dmswjd7281)
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dmswjd7281)](https://solved.ac/dmswjd7281)
 
 #
 
