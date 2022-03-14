@@ -35,5 +35,5 @@
 
 #
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={dmswjd7281})](https://solved.ac/{dmswjd7281})
+[![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmswjd7281)](https://solved.ac/dmswjd7281)
 
