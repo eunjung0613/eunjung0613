@@ -1,4 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjung0613&count_bg=%23F0BEBE&title_bg=%23FC8F8F&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center" style="background-color: black">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjung0613&count_bg=%23F0BEBE&title_bg=%23FC8F8F&icon=&icon_color=%23000000&title=hits&edge_flat=false&animation=fadeIn)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,5&height=300&section=header&text=EUN JUNG&fontSize=70&fontColor=ffffff" />
 
@@ -35,8 +37,10 @@
 
 #
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dmswjd7281)](https://solved.ac/dmswjd7281)
+[![Solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=dmswjd7281)](https://solved.ac/dmswjd7281)
 
 #
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjung0613&layout=compact&theme=gruvbox)
+
+</div>
