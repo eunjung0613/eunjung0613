@@ -37,3 +37,6 @@
 
 [![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmswjd7281)](https://solved.ac/dmswjd7281)
 
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjung0613&layout=compact&theme=gruvbox)
