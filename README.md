@@ -1,8 +1,8 @@
 <div align="center" style="background-color: black">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjung0613&count_bg=%23F0BEBE&title_bg=%23FC8F8F&icon=&icon_color=%23000000&title=hits&edge_flat=false&animation=fadeIn)](https://hits.seeyoufarm.com)
+💟 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjung0613&count_bg=%23F0BEBE&title_bg=%23FC8F8F&icon=&icon_color=%23000000&title=hits&edge_flat=false&animation=fadeIn)](https://hits.seeyoufarm.com)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,5&height=300&section=header&text=EUN JUNG&fontSize=70&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,5&height=300&section=header&text=EUNJUNG'S GIT&fontSize=50&fontColor=ffffff" />
 
 #
 
@@ -27,7 +27,7 @@
 
 
 <h3 align="center">⋆｡ﾟ✶°💛 💬 studying 💛⋆｡ﾟ✶°</h3>
-<p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"></a> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></p>
 
 
 #
