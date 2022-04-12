@@ -4,8 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,5&height=300&section=header&text=EUNJUNG'S GIT&fontSize=50&fontColor=ffffff" />
 
-#
-
+<p align="center">Hi 👐 I'm EunJung Kim!</p>
+<p align="center">안녕하세요, 웹개발자가 되고 픈 김은정입니다.</p>
 
 
 <h3 align="center">☾⋆⁺₊⋆❤️ what i can do is ❤️☾⋆⁺₊⋆</h3>
