@@ -1,11 +1,10 @@
-<div align="center" style="background-color: black">
+<div align="center">
   
 💟 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjung0613&count_bg=%23F0BEBE&title_bg=%23FC8F8F&icon=&icon_color=%23000000&title=hits&edge_flat=false&animation=fadeIn)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,5&height=300&section=header&text=EUNJUNG'S GIT&fontSize=50&fontColor=ffffff" />
 
 <p align="center">Hi 👐 I'm EunJung Kim!</p>
-<p align="center">안녕하세요, 웹개발자가 되고 픈 김은정입니다.</p>
 
 
 <h3 align="center">☾⋆⁺₊⋆❤️ what i can do is ❤️☾⋆⁺₊⋆</h3>
@@ -33,14 +32,6 @@
 #
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjung0613&theme=material-palenight&show_icons=true)
-
-#
-
-[![Solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=dmswjd7281)](https://solved.ac/dmswjd7281)
-
-#
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjung0613&layout=compact&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjung0613&theme=material-palenight&show_icons=true) [![Solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=dmswjd7281)](https://solved.ac/dmswjd7281)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjung0613&layout=compact&theme=gruvbox)
 
 </div>
