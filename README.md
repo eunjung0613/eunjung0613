@@ -1,6 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?&type=slice&reversal=true&color=0:FF69B4,100:FFB6C1&height=300&section=header&text=EunJung'S%20GIT&fontSize=90&" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?&type=Egg&reversal=true&color=0:FF69B4,100:FFB6C1&height=300&section=header&text=EunJung'S%20GIT&fontSize=90&" />
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjung0613&count_bg=%23F0BEBE&title_bg=%23FC8F8F&icon=&icon_color=%23000000&title=hits&edge_flat=false&animation=fadeIn)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjung0613&count_bg=%23FC98BD&title_bg=%23FFF300&icon=react.svg&icon_color=%23000000&title=%F0%9F%92%96&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 
 <div align="center">Hi 👐 I'm EunJung Kim!</div>
@@ -24,7 +27,11 @@
 
 #
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjung0613&show_icons=true&theme=dracula)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjung0613&layout=compact&theme=gruvbox)
+<br/>
+![Solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=dmswjd7281)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjung0613&theme=material-palenight&show_icons=true) [![Solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=dmswjd7281)](https://solved.ac/dmswjd7281)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjung0613&layout=compact&theme=gruvbox)
-
+<img src="https://capsule-render.vercel.app/api?&type=Egg&&color=0:FF69B4,100:FFB6C1&height=300&section=footer&" />
+</div>
